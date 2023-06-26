@@ -1,0 +1,4 @@
+{"type":"FeatureCollection", "features": [
+    {"type":"Feature","geometry":{"type":"MultiPolygon","coordinates":[[109.0760395, -6.8705689]]},
+    "properties":{"ID":01,"kode":0113,"Propinsi":"Jawa Tengah","SUMBER":"Indonesia Geoportal"}}
+    ]}
